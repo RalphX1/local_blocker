@@ -1,6 +1,6 @@
 # Neural Network Ad Blocker
 
-A sophisticated, ad blocker that uses computer vision and neural networks to detect and block advertisements in real-time. Unlike traditional ad blockers that rely on URL filtering or element hiding, this solution uses visual recognition to identify and block ads directly on your screen.
+A ad blocker that uses computer vision and neural networks to detect and block advertisements in real-time. Unlike traditional ad blockers that rely on URL filtering or element hiding, this solution uses visual recognition to identify and block ads directly on your screen.
 
 ## Features
 
