@@ -1,11 +1,12 @@
-# Local Blocker
+# Neural Network Ad Blocker
 
-A sophisticated, OS-level ad blocker that uses computer vision and neural networks to detect and block advertisements in real-time. Unlike traditional ad blockers that rely on URL filtering or element hiding, this solution uses visual recognition to identify and block ads directly on your screen.
+A sophisticated, ad blocker that uses computer vision and neural networks to detect and block advertisements in real-time. Unlike traditional ad blockers that rely on URL filtering or element hiding, this solution uses visual recognition to identify and block ads directly on your screen.
 
 ## Features
 
 - **Neural Network-Based Detection**: Uses a Convolutional Neural Network (CNN) to identify advertisements visually
 - **Real-Time Screen Analysis**: Continuously monitors screen content for ads
+- **Privacy**: Nothing is sent over the internet. Logs are saved locally
 - **Visual Blocking**: Creates transparent overlays to hide detected advertisements
 - **Smart Audio Management**: Automatically mutes or lowers volume during detected video ads
 - **Customizable Settings**: Flexible configuration for blocking appearance and behavior
